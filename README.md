@@ -9,6 +9,8 @@
 - 🔭 I'm currently working on an [LED matrix controller](https://github.com/smithr38atwit/LED-Matrix)
 - ⚡ Fun fact: I like to watch Formula 1 and occassionally take my 2008 Mazdaspeed3 to autocross
 
+_More info about my projects and experience can be found on my [portfolio website](https://smithr38atwit.github.io/)_
+
 ## Languages/Frameworks
 
 ![React](https://img.shields.io/badge/-React-blue?logo=react&logoColor=white)
